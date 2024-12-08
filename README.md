@@ -14,12 +14,12 @@ This project features a **client-server architecture** designed to demonstrate k
 ---
 
 ## ⚙️ **Technologies and Languages**
-### **Server-Side** (Python) 🐍
+### **Server-Side** (Python) 
 - **Language**: Python  
 - **Cryptography**: PyCryptodome – For encryption, decryption, and secure key management.  
 - **Concurrency**: Selectors – To handle multiple client connections concurrently.  
 
-### **Client-Side** (C++) 🚀
+### **Client-Side** (C++) 
 - **Language**: C++  
 - **Communication**: Boost – For seamless communication with the server.  
 - **Cryptography**: Crypto++ – To handle cryptographic functions like encryption and decryption.  
